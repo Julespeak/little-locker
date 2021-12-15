@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name little-locker)(type KiCad)(uri ${KIPRJMOD}/lib/little-locker.pretty)(options "")(descr ""))
+)
